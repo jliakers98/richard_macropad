@@ -1,0 +1,9 @@
+[{a:7,w:2,h:2},"MONTH INPUT BUTTON",{a:4},"Num Lock","/","*\n\n\nDecember","-",{a:7,w:2,h:2},"Control + Shift"],
+[{x:2,a:4},"7\nHome\n\nSeptember","8\n↑\nD\nOctober","9\nPgUp\nE\nNovember",{h:2},"+"],
+[{x:2},"4\n←\nC\nJune","5\n\nW\nJuly","6\n→\nV\nAugust"],
+[{x:2},"1\nEnd\nQ\nMarch","2\n↓\n\nApril","3\nPgDn\n\nMay",{h:2},"Enter"],
+[{x:2,w:2},"0\nIns\n\nJanuary",".\nDel\n\nFebruary"],
+[{r:90,rx:6,ry:4,y:-1,x:-1,a:7,w:2},"Control"],
+[{y:5,x:-1,w:2},"Tab"],
+[{rx:7,ry:3.5,y:-1,x:-0.5,w:2},"Shift"],
+[{y:5,x:-0.5,w:2},"Alt Tab"]
